@@ -4,6 +4,7 @@ openml
 scikit-learn
 matplotlib
 plotly
-papermill
+nbconvert
 yfinance
 seaborn
+jupyter
