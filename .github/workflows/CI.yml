@@ -29,7 +29,7 @@ jobs:
         run: |
           python --version
           python3 --version
-          python -m pip install -r requirements.txt
+          python3 -m pip install -r requirements.txt
 
       # Runs a set of commands using the runners shell
       - name: Run Jupyter Notebooks testing
