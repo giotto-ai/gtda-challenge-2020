@@ -37,7 +37,7 @@ jobs:
       - name: Run Jupyter Notebooks testing
         run: |
           set -e
-          for n in *.ipynb
+          for n in */*.ipynb
           do
-            papermill --start_timeout 500 $n -
+            papermill --start_timeout 1000 $n -
           done
