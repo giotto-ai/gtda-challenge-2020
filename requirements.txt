@@ -4,5 +4,4 @@ openml
 scikit-learn
 matplotlib
 plotly
-torch
 papermill
