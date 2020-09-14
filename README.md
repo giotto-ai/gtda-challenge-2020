@@ -12,9 +12,10 @@ Welcome to the Giotto-tda use-cases challenge 2020. The purpose of this challeng
 Please see the [example_notebook.ipynb](https://github.com/giotto-ai/gtda-challenge-2020/example/example_notebook.ipynb) in the */example* folder.
 
 ## A few rules
-1. There are no constraints on the data type to be used. 
+1. There are no constraints on the data type to be used
 2. The dataset has to be public or publishable
-3. [Giotto-tda](https://github.com/giotto-ai/giotto-tda) has to play a central role in tha analysis
+3. The code shall use the ```latest``` versions of all its dependencies and run using **Python 3.8**
+4. [Giotto-tda](https://github.com/giotto-ai/giotto-tda) has to play a central role in tha analysis
 
 ## Submission procedure
 1. The first step is to fork this repository
