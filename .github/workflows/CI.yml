@@ -26,7 +26,7 @@ jobs:
 
       # Install requirements
       - name: Install requirements
-        run: python -m pip install -r requirements.txt
+        run: python3 -m pip install -r requirements.txt
 
       # Runs a set of commands using the runners shell
       - name: Run Jupyter Notebooks testing
@@ -34,5 +34,5 @@ jobs:
           set -e
           for n in **.ipynb
           do
-            papermill --start_timeout 2000 $n -
+            papermill --start_timeout 500 $n -
           done
