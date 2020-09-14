@@ -1,0 +1,7 @@
+giotto-tda
+pandas
+openml
+scikit-learn
+matplotlib
+plotly
+torch
