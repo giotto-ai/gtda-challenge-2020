@@ -1,4 +1,4 @@
-giotto-tda-nightly
+giotto-tda
 pandas
 openml
 scikit-learn
