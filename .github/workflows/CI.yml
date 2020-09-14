@@ -39,5 +39,5 @@ jobs:
           set -e
           for n in */*.ipynb
           do
-            papermill --start_timeout 1000 $n -
+            jupyter nbconvert --to notebook --execute $n
           done
