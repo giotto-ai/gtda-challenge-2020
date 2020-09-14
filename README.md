@@ -1,6 +1,7 @@
 ![logo](https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg)
 
 # gtda-challenge-2020
+![CI](https://github.com/giotto-ai/gtda-challenge-2020/workflows/CI/badge.svg)
 
 ## Introduction
 Welcome to the Giotto-tda use-cases challenge 2020. The purpose of this challenge is to create the best use-case of applied topology of the year! In order to participate to this challenge and have a chance to win, you have to submit a Jupyter Notebook to this repo (see [the section below](#submission-procedure)) with the following structure:
