@@ -26,7 +26,7 @@ jobs:
 
       # Install requirements
       - name: Install requirements
-        run: python3 -m pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       # Runs a set of commands using the runners shell
       - name: Run Jupyter Notebooks testing
