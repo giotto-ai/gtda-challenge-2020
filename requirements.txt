@@ -5,3 +5,5 @@ scikit-learn
 matplotlib
 plotly
 papermill
+yfinance
+seaborn
