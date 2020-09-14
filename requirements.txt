@@ -8,3 +8,4 @@ nbconvert
 yfinance
 seaborn
 jupyter
+scipy
