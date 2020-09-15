@@ -33,7 +33,7 @@ import sys
 The final PR submission date and hour will have to take place before the 30th of October 2020 at 23:59 [CET](https://time.is/CET).
 
 ## Evaluation system
-Each participant, Giotto-tda maintainer and Giotto-tda collaborator as well as the [L2F SA](https://www.giotto.ai) employees will vote (only once) on Google Form for their first three preferred notebooks. *The link to the form will appear after the 30th of October 2020.*
+Each participant, Giotto-tda maintainer and Giotto-tda collaborator as well as the [L2F SA](https://www.giotto.ai) employees will vote (only once) on Google Form to express their preference for the three best notebooks. *The link to the form will appear after the 30th of October 2020.*
 
 ## Winner announcement and prizes
 On the 9th of November the evaluation phase will end and the first three winners will be announced. A [Condorcet method](https://en.wikipedia.org/wiki/Condorcet_method) will be used to preapre the final classification. 
@@ -45,7 +45,7 @@ The prizes will be the following:
 To the best three use-cases will be announced on the L2F SA social media and advertised through the web. The winner will be contacted directly via email.
 
 ## Disclaimer
-In case of irregularities, the sole and unique judge of this competition -- whose judgement is unquestionable -- will be [giotto-learn](https://github.com/giotto-learn).
+In case of irregularities, the sole and unique judge of this competition -- whose judgement is unquestionable -- will be [L2F SA](https://www.giotto.ai).
 
 ## Community
 giotto-ai Slack workspace: https://slack.giotto.ai/
