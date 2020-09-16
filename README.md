@@ -40,7 +40,7 @@ Each participant, Giotto-tda maintainer and Giotto-tda collaborator as well as t
 ## Winner announcement and prizes
 On the 9th of November the evaluation phase will end and the first three winners will be announced. A [Condorcet method](https://en.wikipedia.org/wiki/Condorcet_method) will be used to preapre the final classification. 
 The prizes will be the following:
-1. for the winner, 2000CHF
+1. for the winner, 4000CHF
 2. for the second, 1000CHF
 3. for the third, 500CHF
 
