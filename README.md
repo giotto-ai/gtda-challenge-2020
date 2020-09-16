@@ -12,12 +12,16 @@ Welcome to the Giotto-tda use-cases challenge 2020. The purpose of this challeng
 
 Please have a look at the [example_notebook.ipynb](https://github.com/giotto-ai/gtda-challenge-2020/blob/master/example/example_notebook.ipynb) in the */example* folder.
 
+## Subscription to the challenge
+Anyone can take part to the challenge and participation is totally free: it is enough to send a PR (see [the section below](#submission-procedure)) and accept the CLA to be considered amongst the participants.
+
 ## A few rules
 1. There are no constraints on the data type to be used
 2. The dataset has to be public or publishable
 3. The code shall use the ```latest``` versions of all its dependencies and run using **Python 3.8**
-4. [Giotto-tda](https://github.com/giotto-ai/giotto-tda) has to play a central role in tha analysis
-5. Performance: the Jupyter notebooks will be automatically tested when the PR is submitted. Their running time shall not exceed the 15 minutes on the GitHub Actions machines (some tolerance margin can be applied to this fifth rule).
+4. [Giotto-tda](https://github.com/giotto-ai/giotto-tda) has to play a central role in the analysis
+5. Performance: the Jupyter notebooks will be automatically tested when the PR is submitted. Their running time shall not exceed the 15 minutes on the GitHub Actions machines (some tolerance margin can be applied to this fifth rule)
+6. For a PR to be acceptable, all the automatic tests have to pass and the CLA has to be accepted by the submitter. An acceptable PR automatically subscribes the submitter to the challenge
 
 ## Submission procedure
 1. The first step is to fork this repository
@@ -44,7 +48,7 @@ The prizes will be the following:
 2. for the second, 1000CHF
 3. for the third, 500CHF
 
-To the best three use-cases will be announced on the L2F SA social media and advertised through the web. The winner will be contacted directly via email.
+The best three use-cases will be announced on the L2F SA social media and advertised through the web. The winner will also be contacted directly via email.
 
 ## Disclaimer
 In case of irregularities, the sole and unique judge of this competition -- whose judgement is unquestionable -- will be [L2F SA](https://www.giotto.ai).
