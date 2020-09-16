@@ -18,7 +18,7 @@ Anyone can take part to the challenge and participation is totally free: it is e
 ## A few rules
 1. There are no constraints on the data type to be used
 2. The dataset has to be public or publishable
-3. The code shall run compatibly with **Python 3.8**
+3. The code shall run compatibly with ![Image](https://img.shields.io/badge/Python-3.8-blue.svg)
 4. [Giotto-tda](https://github.com/giotto-ai/giotto-tda) has to play a central role in the analysis
 5. Performance: the Jupyter notebooks will be automatically tested when the PR is submitted. Their running time shall not exceed the 15 minutes on the GitHub Actions machines (some tolerance margin can be applied to this fifth rule)
 6. **For a PR to be acceptable, all the automatic tests have to pass and the CLA has to be accepted by the submitter.** An acceptable PR automatically subscribes the submitter to the challenge
