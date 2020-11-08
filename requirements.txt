@@ -7,3 +7,4 @@ plotly
 nbconvert
 jupyter
 scipy
+numpy
