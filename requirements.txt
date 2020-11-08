@@ -6,5 +6,3 @@ matplotlib
 plotly
 nbconvert
 jupyter
-scipy
-numpy
