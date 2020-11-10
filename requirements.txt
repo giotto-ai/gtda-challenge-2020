@@ -5,6 +5,4 @@ scikit-learn
 matplotlib
 plotly
 nbconvert
-yfinance
-seaborn
 jupyter
