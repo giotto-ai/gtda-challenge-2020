@@ -35,11 +35,11 @@ import sys
 ```
 
 ### Deadline
-The final PR submission date and hour will have to take place before the 30th of October 2020 at 23:59 [CET](https://time.is/CET).
+The final PR submission date and hour will have to take place before the 15th of November 2020 at 23:59 [CET](https://time.is/CET).
 
 ## Evaluation system
 Each participant, Giotto-tda maintainer and Giotto-tda collaborator as well as the [L2F SA](https://www.giotto.ai) employees will vote (only once) on Google Form to express their preference for the three best notebooks. **The three preferences must all three be different: e.g. one cannot select the same Jupyter notebook for both first and second place. Such irregular votes will be discarded.**
-*The link to the Google Form will be sent to those with voting rights soon after the 30th of October 2020.*
+*The link to the Google Form will be sent to those with voting rights soon after the 15th of November 2020.*
 
 ## Winner announcement and prizes
 On the 9th of November the evaluation phase will end and the first three winners will be announced. A [Condorcet method](https://en.wikipedia.org/wiki/Condorcet_method) will be used to preapre the final classification. 
